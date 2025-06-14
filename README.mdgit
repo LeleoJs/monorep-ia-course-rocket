@@ -1,1 +1,0 @@
-"# monorep-ia-course-rocket"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/LeleoJs/monorep-ia-course-rocket.gitgit push -u origin main
