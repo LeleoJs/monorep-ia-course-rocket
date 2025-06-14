@@ -1,0 +1,10 @@
+torch
+numpy
+pandas
+matplotlib
+pingouin
+seaborn
+scipy
+scikit-learn
+statsmodels
+fastapi
